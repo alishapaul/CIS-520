@@ -7,3 +7,8 @@
 >> Transactional Data for Purchase Card (P-Card) which spans through the financial years 2013-2015.
 
 >> This data-set contains information on purchases, made through the purchase card program administered by the state and higher education institutions. 
+
+
+MAIN CONTRIBUTORS OF THIS PROJECT:
+
+AKSHAY KUMAR ALISHA PAUL MUNDADEN SHUBENDHU SHARMA 
